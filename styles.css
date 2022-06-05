@@ -1,5 +1,3 @@
-Kate Savorona, [04.06.2022 23:52]
-General styles
 * {
     margin: 0;
     padding: 0;
@@ -69,7 +67,6 @@ body {
         margin-right: 0;
     }
 }
-Contact info styles
 .contact-info__header,
   .contact-info__sub-header {
       text-align: center;
@@ -133,7 +130,6 @@ Contact info styles
       border-color: var(--text-decoration-color);
   }
   
-  Intro and skills styles
   
   .intro {
     display: flex;
@@ -210,7 +206,7 @@ Experience and additional info styles
     font-size: 15px;
 }
 
-Kate Savorona, [04.06.2022 23:52]
+
 .experiences__company-project-name {
     color: var(--primary-text-color);
     text-align: left;
@@ -267,5 +263,3 @@ Kate Savorona, [04.06.2022 23:52]
     color: var(--secondary-text-color);
 }
 
-<head><link rel="stylesheet" href="styles.css"> </head>
-<head><meta name="viewport" content="width=device-width, initial-scale=1" /></head>
