@@ -1,1 +1,1 @@
-Hocus-pocus!  
+My homepage  
